@@ -1,0 +1,6 @@
+object0 370 400
+object1 775 150
+object2 570 100
+object3 530 250
+character5 510 290
+character6 510 400

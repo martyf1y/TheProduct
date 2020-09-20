@@ -1,0 +1,20 @@
+There should be:
+
+People
+design - 3 designers
+marketing - 4 marketers
+hallway - 5 hallway
+board - 7 board
+customer - 8 customer
+
+objects
+board - 5 objects(table, projector, chair, funky statue, lamp)
+design - 4 objects (Table with designs, creative chair, whiteboard, canvas)
+Marketing - 5 object (tv, radio, bookshelf, stool, posters)
+hallway - 3 objects (water cooler, printer, desk)
+Customer - 5 objects (Camera, table with food, unveiling, computer poll, lights)
+
+designer - quite technical when describing
+boss - thinking about money
+marketing - abstract/artistic
+customer - mischief/moneygrabber

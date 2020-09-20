@@ -1,0 +1,11 @@
+object0 370 400
+object1 775 150
+object2 370 75
+object3 830 650
+object4 400 210
+character5 510 290
+character6 510 400
+character7 510 510
+character8 230 290
+character9 230 400
+character10 230 510
