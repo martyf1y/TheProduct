@@ -1,4 +1,4 @@
-# TheProduct
+# The Product
 Game created for Serious Play paper at AUT.  Made in of_v0.8.4_osx_release
 
 Last edit was 14.06.2014
